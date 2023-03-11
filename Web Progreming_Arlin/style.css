@@ -1,0 +1,16 @@
+h1 {
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p{
+    color: red;
+    font-weight: bold;
+    /*text-transform: uppercase: */
+}
+.tengah{
+    text-align: center;
+}
+.Kanan{
+    text-align: right;
+}
